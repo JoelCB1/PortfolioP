@@ -1,3 +1,12 @@
+Se realizó al principio con algunos problemas y dudas de mi parte,  con eso me contacté con mi compañero Ginosaurio y me logró solventar las dudas y ayuar en cuanto al desarrollo
+1 commit debido a que me gusta trabajar y probar todo en mi localhost antes de subir todo sin errores
+Muchas gracias
+
+
+
+
+
+
 # flutter_application_portafoliojoel
 
 A new Flutter project.
